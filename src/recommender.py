@@ -1,4 +1,4 @@
-from langchain.chains import create_retrieval_chain
+from langchain.chains.retrieval import create_retrieval_chain
 from langchain.chains.combine_documents import create_stuff_documents_chain
 from langchain_groq import ChatGroq
 from src.prompt_template import get_anime_prompt
