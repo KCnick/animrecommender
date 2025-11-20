@@ -2,7 +2,6 @@ aiohappyeyeballs==2.6.1
 aiohttp==3.13.2
 aiosignal==1.4.0
 altair==5.5.0
--e git+https://github.com/KCnick/animrecommender.git@81e461ee97c2899f43fbc15e6603ebc3abcce3d0#egg=ANIME_RECOMMENDER
 annotated-types==0.7.0
 anyio==4.11.0
 async-timeout==4.0.3
