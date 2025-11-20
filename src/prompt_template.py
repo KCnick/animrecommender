@@ -19,9 +19,9 @@ Context:
 {context}
 
 User's question:
-{question}
+{input}
 
 Your well-structured response:
 """
 
-    return PromptTemplate(template=template, input_variables=["context", "question"])
+    return PromptTemplate(template=template, input_variables=["context", "input"])
